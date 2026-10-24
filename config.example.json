@@ -1,0 +1,7 @@
+{
+  "clients": [],
+  "port": 1337,
+  "lan_interface": "br-lan",
+  "state_dir": "/root",
+  "ram_dir": "/tmp"
+}

@@ -1,0 +1,5 @@
+/brutter
+/dist/
+/backups/
+*.log
+.DS_Store
